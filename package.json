@@ -1,0 +1,21 @@
+{
+  "name": "draft-legend",
+  "version": "1.0.0",
+  "description": "Node.js project for Draft Legend",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louixchan/Draft-Legend.git"
+  },
+  "author": "Louis Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louixchan/Draft-Legend/issues"
+  },
+  "homepage": "https://github.com/louixchan/Draft-Legend#readme"
+}
